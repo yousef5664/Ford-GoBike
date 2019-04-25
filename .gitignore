@@ -1,3 +1,4 @@
 data
 .ipynb_checkpoints
 output-toggle.tpl
+!data/weather 2008.csv
